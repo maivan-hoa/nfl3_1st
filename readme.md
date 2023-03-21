@@ -1,4 +1,4 @@
-# 1st and Future - Player Contact Detection
+# 1st and Future - Player Contact Detection (https://www.kaggle.com/competitions/nfl-player-contact-detection/overview)
 
 Below you can find an outline of how to reproduce my 1st place solution for the `1st and Future - Player Contact Detection`.
 
